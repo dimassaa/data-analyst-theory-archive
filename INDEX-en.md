@@ -1,6 +1,6 @@
 # Index: Data Analytics
 
-NOTE: This is the **English** version of the notes. The Russian original lives in `topics/` (index: [README.md](DA/README.md)).
+NOTE: This is the **English** version of the notes. The Russian original lives in `topics/` (index: [INDEX.md](INDEX.md)).
 
 The full analytics study notes are split into topic files in the `topics-en/` folder. Multi-part topics are organized as follows:
 
