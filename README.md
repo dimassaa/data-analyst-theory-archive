@@ -93,10 +93,3 @@ These belong to Data Science / ML engineering rather than a base analyst toolkit
 - MLOps, deployment, pipelines, big-data tooling
 - Measure-theoretic probability, SVD/eigendecomposition, convex optimization
 
----
-
-## 🏷️ Suggested GitHub topics
-
-`data-analysis` `statistics` `ab-testing` `hypothesis-testing` `product-metrics` `study-notes` `interview-preparation` `theory` `data-analyst` `regression` `probability` `cheatsheets`
-
-*(Add these in the repo settings → "Topics".)*
